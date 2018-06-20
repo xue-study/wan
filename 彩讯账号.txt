@@ -1,0 +1,31 @@
+***企业邮箱:  
+     账号:xuezeyun@richinfo.cn
+     密码:qaz920912@
+     网址:http://mail.richinfo.cn/
+
+***OA账户:
+     账号:xuezeyun
+     密码:qaz920912@
+     网址:http://oas.richinfo.cn:8088
+
+***人力资源系统账户:
+     账号:xuezeyun
+     密码:Qaz920912@
+     网址:http://hr.richinfo.cn
+
+***深信服上网认证账户:
+     账号:xuezeyun
+     密码:123456
+     网址:http://192.168.6.254
+	   ^注:打开任意网站在弹出窗口输入认证账户,密码才能练互联网
+
+***研发体系流程访问路径:
+     账号:xuezeyun
+     密码:OArich@139.com
+     网址:http://192.168.9.222/RDM/流程规范(svn)
+
+***Q5项目管理系统:
+     账号:xuezeyun
+     密码:OArich@139.com
+     网址:内网--> http://192.168.4.13:8081/q5/
+	      外网--> http://121.15.167.237:8081/q5/login.aspx
